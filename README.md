@@ -61,7 +61,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
 ![](/design/images/КП.PNG)
 
 ## Файл КП для автотестов:
-![](/data/ФНС_отчетность/КП_автотест_ФНС.xlsx)
+[/data/ФНС_отчетность/КП_автотест_ФНС.xlsx](/data/ФНС_отчетность/КП_автотест_ФНС.xlsx)
 
 
 ### Список проверок, реализованных в автотестах
