@@ -1,12 +1,10 @@
 <h1 align="center">Проект по тестированию процесса получения и обработки отчетности по страховым взносам, поступающей из ФНС, подсистемы СПУ"</h1>
-
 <hr>
 
 ## Проект реализован с использованием
 Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Telegram = Java
 
 ![](/design/icons/Python.png)&emsp;![](/design/icons/Pytest.png)&emsp;![](/design/icons/Selenium.png)&emsp;![](/design/icons/Selene.png)&emsp;![](/design/icons/Selenoid.png)&emsp;![](/design/icons/Allure_Report.png)&emsp;![](/design/icons/Jenkins.png)&emsp;![](/design/icons/Telegram.png)&emsp;![](/design/icons/Java.png)
-
 <hr>
 
 ## Основные понятия и функции тестируемого процесса
