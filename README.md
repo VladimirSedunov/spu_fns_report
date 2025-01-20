@@ -58,7 +58,7 @@ Python = Pytest = Selenium = Selene = Selenoid = Allure Report = Jenkins = Teleg
  
 ## Фрагмент КП для ручного тестирования.
 Тест-кейсов очень много, из них отобраны 103 теста для автоматизации.
-![](/design/icons/Python.png)
+![](/design/images/КП.PNG)
   
 
 ### Список проверок, реализованных в автотестах
