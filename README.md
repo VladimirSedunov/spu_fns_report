@@ -120,6 +120,8 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java
 
 ![](/design/images/Лог_1.png)
 
+Если расхождений нет, этот Лист выглядит так:
+![](/design/images/Лог_2.png)
 
 
 ## Запуск автотестов выполняется на сервере Jenkins
