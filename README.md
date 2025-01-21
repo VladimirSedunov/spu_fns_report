@@ -123,6 +123,7 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java
 Если расхождений нет, этот Лист выглядит так:
 
 ![](/design/images/Лог_2.PNG)
+<hr>
 
 ## Формирование Эталонов
 
@@ -131,7 +132,7 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java
 Листы компонуются в один файл Excel.
 
 Тестировщику остаётся проверить выборки и заменить Листы в файле КП.
-
+<hr>
 
 ## Запуск автотестов выполняется на сервере Jenkins
 
@@ -147,19 +148,11 @@ pytest ${SELECT_TESTS} ${SUMMARY_DIFF_LOG} --bd_name=${bd_name}
 
 ![](/design/images/jenkins1.png)
 
-### 5. Результат запуска сборки можно посмотреть в отчёте Allure
+### 5. Результат запуска сборки можно посмотреть в отчёте Allure Report
+
 ![](/design/images/jenkins2.png)
 
-## Локальный запуск автотестов
-Пример командной строки:
-```
-pytest tests -m jenkins_ok
-```
-
-Получение отчёта:
-```
-allure.bat serve allure-results
-```
+<hr>
 
 ## Настроено автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
 ![](/design/images/telegram_bot_ru.PNG)
