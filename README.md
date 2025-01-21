@@ -155,6 +155,5 @@ pytest ${SELECT_TESTS} ${SUMMARY_DIFF_LOG} --bd_name=${bd_name}
 <hr>
 
 ## Настроено автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
-![](/design/images/telegram_bot_ru.PNG)
 
-![](/design/images/telegram_bot_ru_green.PNG)
+![](/design/images/telegram_bot.PNG)
