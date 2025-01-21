@@ -101,6 +101,8 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java
 
 
 
+Эталон_Скрипты
+
 
 ## Запуск автотестов выполняется на сервере Jenkins
 
