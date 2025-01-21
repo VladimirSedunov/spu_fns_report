@@ -145,7 +145,7 @@ pytest ${SELECT_TESTS} ${SUMMARY_DIFF_LOG} --bd_name=${bd_name}
 * bd_name - База данных (тестовый стенд)
 * SUMMARY_DIFF_LOG - Параметр задаёт необходимость прикрепления к Allure-отчёту итоговой информации о расхождениях
 
-
+![](/design/images/jenkins1.png)
 
 ### 5. Результат запуска сборки можно посмотреть в отчёте Allure
 ![](/design/images/jenkins2.png)
