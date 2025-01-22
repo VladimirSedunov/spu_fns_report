@@ -148,7 +148,7 @@ pytest ${SELECT_TESTS} ${SUMMARY_DIFF_LOG} --bd_name=${bd_name}
 
 ![](/design/images/jenkins1.png)
 
-### 5. Результат запуска сборки можно посмотреть в отчёте Allure Report
+### Результат запуска сборки можно посмотреть в отчёте Allure Report
 
 ![](/design/images/jenkins2.png)
 
